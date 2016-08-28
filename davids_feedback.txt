@@ -1,0 +1,3 @@
+David's feedback:
+
+Looks good.  I added a few comments throughout.  To me, the only big changes I would want to see are (1) a section at the top that frames the question of what features an annotation tool should have, which would let you define most of your terms and (2) a section at the end that briefly discusses what to do when none of the options work — you mention this briefly in the middle, but I would rather see it pulled out to a separate comment at the end.  These don’t need to be big sections either (you already have most of the content), but would provide a lot more framing of the post for people who wouldn’t be sure what they should be looking for in an annotation software just yet.
